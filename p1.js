@@ -1,6 +1,4 @@
-let name="Charan";
-let age=20;
-let isStudent = true;
-console.log(`My name is ${name}`);
-console.log(typeof(age));
-console.log(typeof(isStudent));
+let age="25";
+let numAge=Number(age);
+console.log(typeof age);
+console.log(typeof numAge);
